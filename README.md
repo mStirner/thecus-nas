@@ -48,4 +48,5 @@ muss nicht mdadm sein, muss aber gleich lang sein.
 [    9.372172] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
 [    9.372178] ACPI Warning: SystemIO range 0x0000000000000480-0x00000000000004AF conflicts with OpRegion 0x000000000000048C-0x000000000000048F (\GPO) (20200925/utaddress-204)
 [    9.372192] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+[    9.372196] lpc_ich: Resource conflict(s) found affecting gpio_ich
 ```
