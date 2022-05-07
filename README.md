@@ -38,3 +38,14 @@ muss nicht mdadm sein, muss aber gleich lang sein.
 ```
 \0\372\267\1\3 
 ```
+
+
+# Missing ACPI driver
+```
+[    9.372123] ACPI Warning: SystemIO range 0x0000000000000428-0x000000000000042F conflicts with OpRegion 0x0000000000000429-0x0000000000000429 (\PM2S) (20200925/utaddress-204)
+[    9.372147] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+[    9.372156] ACPI Warning: SystemIO range 0x00000000000004B0-0x00000000000004BF conflicts with OpRegion 0x00000000000004B8-0x00000000000004BB (\GPO2) (20200925/utaddress-204)
+[    9.372172] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+[    9.372178] ACPI Warning: SystemIO range 0x0000000000000480-0x00000000000004AF conflicts with OpRegion 0x000000000000048C-0x000000000000048F (\GPO) (20200925/utaddress-204)
+[    9.372192] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+```
