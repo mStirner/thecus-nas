@@ -6,6 +6,7 @@ This repo is a playground to experiment with a thecus nas. Goal is to get the LC
 - https://github.com/jncronin/pymonitor
 - https://www.youtube.com/watch?v=f2IvOeY00_Q
 - https://wiki.chaostreff.ch/index.php/Thecus_n5200_Debian#LCD_Display
+- https://wiki.debian.org/InstallingDebianOn/Thecus/N2800
 
 
 # Analyse OOBM
